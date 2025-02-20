@@ -22,8 +22,3 @@ This project applies machine learning techniques to analyze and predict diabetes
 - Identified **key predictors** of diabetes.
 - Showed how removing certain features can maintain performance while **simplifying the model**.
 - Explored different solvers and regularization techniques for improved accuracy.
-
-## 🚀 Running the Notebook
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
