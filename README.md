@@ -1,5 +1,4 @@
-
-# Predicting Diabetes and Insulin Levels with Machine Learning
+# 🩺 Predicting Diabetes and Insulin Levels
 
 ## 📌 Overview
 This project applies machine learning techniques to analyze and predict diabetes cases. We use **logistic regression** for classification and **linear regression** for insulin level prediction, investigating data structure, feature importance, and optimization techniques.
